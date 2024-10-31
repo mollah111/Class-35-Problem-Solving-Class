@@ -1,0 +1,19 @@
+
+
+DOM = Document Object Model
+
+
+CREATE
+READ
+UPDATE
+DELETE
+
+CRUD => Operation
+
+=================
+EVENT:
+onkeyup
+onkeydown
+onkeypress
+onchange
+onblur
